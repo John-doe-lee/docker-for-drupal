@@ -1,5 +1,5 @@
 FROM cobers/debian
-MAINTAINER John Lee <John Lee@gmail.com>
+MAINTAINER John Lee <80285394@qq.com>
 
 # Install system packages
 RUN apt-get install -y \
